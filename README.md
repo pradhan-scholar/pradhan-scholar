@@ -1,4 +1,4 @@
-[PROFILE_README.md](https://github.com/user-attachments/files/35030709/PROFILE_README.md)
+
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
